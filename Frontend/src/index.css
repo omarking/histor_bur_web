@@ -1,0 +1,19 @@
+.btn-metodo-pago{
+    border: none;
+    background-color: transparent;
+    text-align:left;
+    border-radius: .5rem;
+    box-shadow: 0px 0px 15px  rgba(0,0,0,0.7);
+    -webkit-box-shadow: 0px 0px 15px  rgba(0,0,0,0.7);
+    -moz-box-shadow: 0px 0px 15px  rgba(0,0,0,0.7);
+    color: #5c5b5b;
+}
+
+.btn-metodo-pago:hover{
+    background-color: #f7f7f7cb;
+    box-shadow: 0px 0px 17px  rgba(0,0,0,0.8);
+    -webkit-box-shadow: 0px 0px 17px  rgba(0,0,0,0.8);
+    -moz-box-shadow: 0px 0px 17px  rgba(0,0,0,0.8);
+    padding-top: 1.55rem !important;
+    padding-bottom: 1.55rem !important;
+}
